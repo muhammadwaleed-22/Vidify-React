@@ -1,0 +1,110 @@
+[
+  {
+    "Product": "stylish-summer-necklace",
+    "Thumbnail": "1.png",
+    "Image": "3 images",
+    "Status": "Active",
+    "Inventory": "0 in stock for 50 variants",
+    "Progress": "Not Generated",
+    "Action": "a1.png"
+  },
+  {
+    "Product": "threader-necklace-closeup",
+    "Thumbnail": "2.png",
+    "Image": "5 images",
+    "Status": "Active",
+    "Inventory": "360 in stock",
+    "Progress": "Wait until current video is done.",
+    "Action": "a2.png"
+  },
+  {
+    "Product": "silver-threader-necklace",
+    "Thumbnail": "3.png",
+    "Image": "2 images",
+    "Status": "Draft",
+    "Inventory": "120 in stock",
+    "Progress": "Not Generated",
+    "Action": "a3.png"
+  },
+  {
+    "Product": "silver-threader-necklace",
+    "Thumbnail": "4.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "In Progress",
+    "Action": "a4.png"
+  },
+  {
+    "Product": "threader-necklace-closeup",
+    "Thumbnail": "5.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a5.png"
+  },
+  {
+    "Product": "threader-necklace",
+    "Thumbnail": "6.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a6.png"
+  },
+  {
+    "Product": "silver-threader-necklace",
+    "Thumbnail": "7.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a7.png"
+  },
+  {
+    "Product": "stylish-summer-necklace",
+    "Thumbnail": "8.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a7.png"
+  },
+  {
+    "Product": "threader-necklace-closeup",
+    "Thumbnail": "9.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a7.png"
+  },
+  {
+    "Product": "silver-threader-necklace",
+    "Thumbnail": "10.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a7.png"
+  },
+  {
+    "Product": "silver-threader-necklace",
+    "Thumbnail": "11.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a7.png"
+  },
+  {
+    "Product": "silver-threader-necklace",
+    "Thumbnail": "12.png",
+    "Image": "2 images",
+    "Status": "Active",
+    "Inventory": "120 in stock",
+    "Progress": "Completed",
+    "Action": "a7.png"
+  }
+]
